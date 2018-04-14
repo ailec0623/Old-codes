@@ -1,0 +1,9 @@
+-- a simple micro program
+-- good luck. It is a comment
+begin
+
+a := x+y;
+b := 314;
+c := 1 + a * (b - 1) / 2;
+write(a, b, c, (a+b+c)/(x+y) ) ;
+end

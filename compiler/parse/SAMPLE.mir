@@ -1,0 +1,5 @@
+-- a simple micro program
+-- good luck. It is a comment
+begin
+y := 2 -( 4 - 3)) + 5 * 6;
+end
